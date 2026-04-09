@@ -11,6 +11,4 @@
 - **Lucide React**: Medical icons
 - **Motion**: Smooth transitions
 
-## Staff Credentials (Demo)
-- **Username**: `admin`
-- **Password**: `password123`
+
