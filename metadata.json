@@ -1,0 +1,5 @@
+{
+  "name": "Hospital Patient Record System",
+  "description": "A comprehensive hospital management system for staff login and patient record CRUD operations using React, Express, and Firebase.",
+  "requestFramePermissions": []
+}
